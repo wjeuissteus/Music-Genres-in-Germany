@@ -12,6 +12,7 @@ We did used python and  [jupyter notebook](http://jupyter.org/) to develop the s
 
 
 
+![all_layers](https://user-images.githubusercontent.com/32109884/38060940-474b8a4c-32ed-11e8-9b46-205a91381f8a.png)
 
 
 
